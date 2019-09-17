@@ -22,3 +22,7 @@
 * 學號4 姓名4
 * 學號5 姓名5
 ```
+
+[高科大](https://www.nkust.edu.tw/p/412-1000-85.php?Lang=zh-tw)
+
+<https://www.nkust.edu.tw/p/412-1000-85.php?Lang=zh-tw>
