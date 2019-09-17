@@ -26,3 +26,14 @@
 [高科大](https://www.nkust.edu.tw/p/412-1000-85.php?Lang=zh-tw)
 
 <https://www.nkust.edu.tw/p/412-1000-85.php?Lang=zh-tw>
+
+| First | Second | Third |
+|:------|:------:|------:|
+|1 | 2 | 3  |
+|1 | 2 | 3  |
+
+:smile:
+
+:cry:
+
+:+1:
