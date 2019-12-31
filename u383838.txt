@@ -1,0 +1,3 @@
+student id
+group name: Smart group
+member: name1 
